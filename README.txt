@@ -32,4 +32,5 @@ This project is designed to be run on a jetson nano developer kit using the jets
 
 If you do not see the stream make sure everything is installed correctly and your inputs and outputs are correct.
 
-[View a video explanation here](video link)
+[View a video explanation here]
+https://www.youtube.com/watch?v=T_XQkzqx7No
